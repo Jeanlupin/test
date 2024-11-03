@@ -16,7 +16,7 @@ def compress_image(input_path, output_path, quality=85, resize_factor=0.5):
 # 使用範例
 compress_image("p1.png.JPG", "output.jpg", quality=80, resize_factor=0.5)
 
-print("ｉ　ａｍ　 Jean")
+print("ｉ　ａｍ　 Jeanlala"
 
 
 
