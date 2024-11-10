@@ -1,6 +1,8 @@
 name: Run Python
 on:
     push:
+    schedule: 
+        - cron: 0 0 * * * #every end of day
 jobs:
     build:
         name: set and run
